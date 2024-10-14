@@ -1,0 +1,33 @@
+_repo: Aldyth-s-inheritance_74544
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thorne, Eglanton
+    alias: Charlton, Elizabeth Emily
+    birthdate: 1852
+    deathdate: 1907
+    gutenberg_agent_id: '56000'
+    url: http://www.gutenberg.org/2009/agents/56000
+description: ''
+gutenberg_issued: '2024-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74544'
+language: en
+pgterms:marc905: 20240920140310thorne
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Mate selection -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Aldyth's inheritance
+url: http://www.gutenberg.org/ebooks/74544
