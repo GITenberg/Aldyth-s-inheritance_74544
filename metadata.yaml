@@ -1,5 +1,8 @@
 _repo: Aldyth-s-inheritance_74544
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thorne, Eglanton
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56000'
     url: http://www.gutenberg.org/2009/agents/56000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74544#Aldyth-s-inheritance
 gutenberg_issued: '2024-10-08'
 gutenberg_type: Text
 identifiers:
